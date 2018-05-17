@@ -8,5 +8,5 @@ end
 
 # code your input_to_index and move method here!
 def input_to_index(board)
-  index=input-1
+  user_input.toi-1
 end
